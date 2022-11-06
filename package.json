@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "build": "tsc"
+    },
+    "dependencies": {
+        "azure-cosmosdb-js-server-types": "^1.0.0",
+        "typescript": "^4.8.4"
+    }
+}
